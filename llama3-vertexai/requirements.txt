@@ -1,0 +1,4 @@
+google-cloud-aiplatform[langchain]
+openai
+langchain-openai
+vertexai
